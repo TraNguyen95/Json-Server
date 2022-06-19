@@ -1,0 +1,193 @@
+{
+    "categories": [
+        {
+            "id": "787d1d78-7baf-448c-8dc4-6a72061997de",
+            "name": "Mr. Rocky Glover",
+            "createdAt": 1655568905792,
+            "updatedAt": 1655568905792
+        },
+        {
+            "id": "efbed71c-d596-4564-87af-f1dfe700b828",
+            "name": "Miss Dora Corkery",
+            "createdAt": 1655568905795,
+            "updatedAt": 1655568905795
+        },
+        {
+            "id": "ee04785b-229f-432a-af06-231bb8374a57",
+            "name": "Miss Deshaun Schuppe",
+            "createdAt": 1655568905795,
+            "updatedAt": 1655568905795
+        },
+        {
+            "id": "d33dd009-bc08-43d4-9365-f4838aa294ac",
+            "name": "Mr. Aiyana Morissette",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        }
+    ],
+    "products": [
+        {
+            "categoryId": "787d1d78-7baf-448c-8dc4-6a72061997de",
+            "id": "dcd1c6d8-c8e6-4d50-b193-d1d323098638",
+            "name": "Ms. Meta Fay",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "787d1d78-7baf-448c-8dc4-6a72061997de",
+            "id": "29c30cca-02c3-472f-ad00-2459e0b5c097",
+            "name": "Mr. Jordy Walker",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "787d1d78-7baf-448c-8dc4-6a72061997de",
+            "id": "144dc68f-b441-4eb2-b876-6a7aa1fe3b94",
+            "name": "Mrs. Danika Treutel",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "787d1d78-7baf-448c-8dc4-6a72061997de",
+            "id": "a3db3dda-5f97-43ec-86d0-fa34e1d6b8bf",
+            "name": "Mrs. Aryanna Stokes",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "787d1d78-7baf-448c-8dc4-6a72061997de",
+            "id": "9741de01-dc90-4bdf-9df1-64cdd782a5df",
+            "name": "Mrs. Merle Emmerich",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "efbed71c-d596-4564-87af-f1dfe700b828",
+            "id": "5574445b-7661-4943-b37e-9f200f970989",
+            "name": "Dr. Mina Pagac",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "efbed71c-d596-4564-87af-f1dfe700b828",
+            "id": "9bac57dc-eade-4b51-97bd-394f8b7ddb0f",
+            "name": "Ms. Karine Stamm",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "efbed71c-d596-4564-87af-f1dfe700b828",
+            "id": "f08d981d-8af1-4fbe-8e24-00d62d94b737",
+            "name": "Ms. Laurianne Doyle",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "efbed71c-d596-4564-87af-f1dfe700b828",
+            "id": "90a5e1ea-3e62-4861-9f7e-3c7e3ee627b8",
+            "name": "Mrs. Anna Green",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "efbed71c-d596-4564-87af-f1dfe700b828",
+            "id": "f13ab0c3-fff3-40ba-9d15-a779f9d18349",
+            "name": "Dr. Tristian Reinger",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "ee04785b-229f-432a-af06-231bb8374a57",
+            "id": "946728a7-096b-4be0-84f1-5ebed91ef26e",
+            "name": "Mrs. Mandy Raynor",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "ee04785b-229f-432a-af06-231bb8374a57",
+            "id": "31cd8c7a-f673-4a41-aba8-01c63fcf344a",
+            "name": "Miss Krista Kris",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "ee04785b-229f-432a-af06-231bb8374a57",
+            "id": "2ed4fe05-f93f-4fa4-9d2c-950db6fbf08b",
+            "name": "Ms. Camryn Ward",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905796,
+            "updatedAt": 1655568905796
+        },
+        {
+            "categoryId": "ee04785b-229f-432a-af06-231bb8374a57",
+            "id": "6a808ed9-8f70-414f-8b07-61c5d5a62705",
+            "name": "Mrs. Hudson Kub",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905798,
+            "updatedAt": 1655568905798
+        },
+        {
+            "categoryId": "ee04785b-229f-432a-af06-231bb8374a57",
+            "id": "fe46fd9e-4567-4f1b-96c4-dff6850f144d",
+            "name": "Ms. Myrtis Shields",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905798,
+            "updatedAt": 1655568905798
+        },
+        {
+            "categoryId": "d33dd009-bc08-43d4-9365-f4838aa294ac",
+            "id": "9f703ff5-7e6c-4d3e-a8c9-7ae93a04f396",
+            "name": "Mrs. Floyd Walter",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905798,
+            "updatedAt": 1655568905798
+        },
+        {
+            "categoryId": "d33dd009-bc08-43d4-9365-f4838aa294ac",
+            "id": "ca0e04af-0359-424f-aeed-31e5d6b0bc4c",
+            "name": "Ms. Letha Rogahn",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905798,
+            "updatedAt": 1655568905798
+        },
+        {
+            "categoryId": "d33dd009-bc08-43d4-9365-f4838aa294ac",
+            "id": "26c78d7a-358c-4d5f-82e5-61e147d16ee2",
+            "name": "Miss Velda Hickle",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905798,
+            "updatedAt": 1655568905798
+        },
+        {
+            "categoryId": "d33dd009-bc08-43d4-9365-f4838aa294ac",
+            "id": "cf659c60-ae25-4b2d-a0f2-d7c3af8eaa11",
+            "name": "Miss Nicholaus Wisozk",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905798,
+            "updatedAt": 1655568905798
+        },
+        {
+            "categoryId": "d33dd009-bc08-43d4-9365-f4838aa294ac",
+            "id": "823d3e97-bb68-4410-9290-3cc0684278d1",
+            "name": "Mr. Adriel Auer",
+            "thumnailUrl": "url image",
+            "createdAt": 1655568905798,
+            "updatedAt": 1655568905798
+        }
+    ],
+    "profile": {
+        "name": "po"
+    }
+}

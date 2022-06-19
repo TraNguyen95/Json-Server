@@ -1,0 +1,17 @@
+@baseUrl = http://localhost:4000/api
+
+GET  {{baseUrl}}/products?_page=2&_limit=3
+
+###
+POST     {{baseUrl}}/posts HTTP/1.1
+content-type: application/json
+
+{
+    "title": "title 2",
+    "author": "ad"
+}
+
+###
+
+DELETE {{baseUrl}}/posts/23
+
